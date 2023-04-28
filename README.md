@@ -12,6 +12,7 @@
 ![PHP](https://img.shields.io/badge/-LINUX-090900?style=for-the-badge&logo=linux)
 ![PHP](https://img.shields.io/badge/-GITHUB-090900?style=for-the-badge&logo=github)
 ![PHP](https://img.shields.io/badge/-GITHUB_ACTIONS-090900?style=for-the-badge&logo=githubactions)
+![PHP](https://img.shields.io/badge/-DOCKER-090900?style=for-the-badge&logo=docker)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ideal1sm&count_private=true&show_icons=true&theme=dracula&card_width=500)](https://github.com/anuraghazra/githubreadme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ideal1sm&layout=compact&theme=dracula&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
